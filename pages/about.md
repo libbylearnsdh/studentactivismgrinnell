@@ -12,22 +12,15 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About Student Activism at Grinnell College
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection, Student Activism at Grinnell College, presents events related to student-led activism at Grinnell College with a purpose to support students' and faculties' research.  
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## About this collection
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+This project is led by a librarian, Elizabeth Cave, as a part of her continuious project to collect and archive the history of student activism at Grinnell College, following Grinnell College Black Library. The project has been debeloped through the collaboratory work in Vivero Digital Humanities fellowship with a student researcher, Chikako Inoue '26.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+## About the authors
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Elizabeth "Libby" Cave is AN AMAZING FOUNDER OF THIS PROJECT AND A MAGICAL LIBRARIAN.
+Chikako Inoue'26 is a student researcher majoring in Gender, Women's, and Sexuality Studies with a Digital Studies concentration. Their study focuses on the commemoration of Comfort Women, Japanese military sexual slavery system, and the digital collection and archive of personal and collective memories. They are excited to dive deeper into the digital archive of collective memory at Grinnell College. 
