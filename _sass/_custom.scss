@@ -2,3 +2,36 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+.content-box {
+    display: inline-block;
+    width: 45%;
+    margin: 20px;
+    vertical-align: top;
+}
+
+.browse-section {
+    .row {
+        justify-content: center;
+    }
+
+    .card {
+        margin: 10px;
+        text-align: center;
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+}
+
