@@ -1,7 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Subjects,/subjects.html,
+Browse by Movements,/subjects.html,
+Movement Details,,
+Anti-Vietnam War, /anti-vietnam.html,Movement Details
+Playboy Nude-in, //nude-in.html,Movement Details
 Locations,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
