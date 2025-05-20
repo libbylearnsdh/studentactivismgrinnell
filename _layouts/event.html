@@ -8,16 +8,19 @@ custom-foot: js/event-browse-js.html
 
 <!DOCTYPE html>
 <html lang="en">
+<!--Create page and set custom css file --> 
 <head>
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
 </head>
 <body>
+<!--Set feature image for the page and the design for the header--> 
     <header>
         <img src="{{ page.featured_image }}" alt="Featured Image">
         <h1>{{ page.title }}</h1>
     </header>
+<!--Create text boxes for the body--> 
     <main>
         <div class="content-box">
             <h2>Movement at Grinnell College</h2>
@@ -27,6 +30,7 @@ custom-foot: js/event-browse-js.html
             <h2>Movement in the USA</h2>
             <p>{{ page.us_event }}</p>
         </div>
+<!--Create the browse item section--> 
         <div class="browse-section">
             <div class="row mb-3 justify-content-center">
                 <div class="col-md-8 text-center">
